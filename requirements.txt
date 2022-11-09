@@ -1,0 +1,15 @@
+### General Libraries for Stats/Data Science ###
+pandas
+scipy
+statsmodels
+sklearn
+
+### Google Causal Impact ###
+tfcausalimpact
+
+### Matching ###
+CausalInference
+
+### Testing in Jupyter Notebook ###
+ipykernel
+jupyter
